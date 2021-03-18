@@ -1,8 +1,5 @@
 
 
-console.log('Client side js is loaded')
-
-
 const getWeather = (searchLocation,resultLocation,resultForecast)=>{
     
     resultLocation.textContent = 'Searching . . .'
